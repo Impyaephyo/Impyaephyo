@@ -21,6 +21,8 @@
 - ⚡ Fun fact **:wq! is the way.**
 
 <h3 align="left">Connect with me:</h3>
+Email : mrpyaephyoo.mm@gmail.com
+
 <p align="left">
 </p>
 
