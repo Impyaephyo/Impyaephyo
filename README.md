@@ -1,27 +1,35 @@
+### About Me :
 ![MasterHead](https://piensoexisto.com/wp-content/uploads/2022/02/1_C-06JO_UVDCaE5zm_09J2w.gif)
-<h1 align="center">Hi 👋, I'm Pyae Phyo</h1>
-<h3 align="center">A guy who loves techonology.</h3>
-
+"Passionate Infrastructure Engineer | Networking | System Engineering | DevOps | Cloud Architecture | Kalaung Tech Member"
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=impyaephyo&label=Profile%20views&color=0e75b6&style=flat" alt="impyaephyo" /> </p>
+- DevSecOps methodologies (CI/CD, Ansible)
+- Cloud platforms (AWS, Digital Ocean)
+- Infrastructure as Code (Terraform, CloudFormation, Ansible)
+- Containerization and orchestration (Docker, Kubernetes)
+- Linux System Administration
 
-- 🌱 I’m currently learning **Terraform, Cloud Infrastructure, System and Network**
+I am a dedicated tech enthusiast who has transformed my hobby into a fulfilling career in networking, system engineering, DevOps, and cloud architecture. With over 7 years of experience, I specialize in designing and implementing cloud-native and microservices-based solutions, delivering reliable and scalable information systems with a focus on high availability.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Impyaephyo](https://github.com/Impyaephyo)
+In addition to my professional work, I am a proud member of Kalaung Tech. Through this community, I actively share insights, best practices, and industry trends to help aspiring professionals build successful careers in cloud computing and DevOps. It brings me joy to contribute to the growth of others in the field.
 
-- 📝 I regularly write articles on [https://medium.com/@mrpyaephyoo.mm](https://medium.com/@mrpyaephyoo.mm)
+My expertise extends beyond technical skills. I am well-versed in setting strategic goals, managing teams, allocating resources, and driving business strategies. This allows me to add significant value to businesses by effectively managing and executing projects, ensuring alignment with organizational objectives.
 
-- 💬 Ask me about **AWS, CICD, IAAC, CloudArchitecture, Linux**
+Bridging the gap between IT and other departments is another strength of mine. I understand the importance of collaboration and communication across different teams and stakeholders. By leveraging my technical and business knowledge, I ensure optimal performance, efficiency, and growth within organizations.
 
-- 📫 How to reach me **mrpyaephyoo.mm@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pyae-phyo-567b9412a/](https://www.linkedin.com/in/pyae-phyo-567b9412a/)
+- Designed and implemented CI/CD pipelines that include automated security testing, resulting in improved code quality and reduced time to market.
 
-- ⚡ Fun fact **:wq! is the way.**
+- Led security assessments and penetration testing to identify vulnerabilities and provided actionable recommendations to mitigate risks.
 
-<h3 align="left">Connect with me:</h3>
-Email : mrpyaephyoo.mm@gmail.com
+- Implemented infrastructure as code (IaC) using Terraform, enabling the secure and consistent deployment of cloud resources.
+
+
+
+If you are seeking a passionate and experienced professional with a strong background in networking, system engineering, DevOps, and cloud architecture, I am confident that I can contribute to your organization's success. Let's connect and explore opportunities to work together.
+
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pyae-phyo-567b9412a/)
 
 <p align="left">
 </p>
