@@ -32,7 +32,7 @@ If you are seeking a passionate and experienced professional with a strong backg
 
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pyae-phyo-567b9412a/)
-
+⚡ Fun fact: :wq! is the way
 <p align="left">
 </p>
 
