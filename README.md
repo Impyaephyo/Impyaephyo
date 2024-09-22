@@ -3,7 +3,6 @@
 
 ![MasterHead](https://piensoexisto.com/wp-content/uploads/2022/02/1_C-06JO_UVDCaE5zm_09J2w.gif)
 "Passionate Infrastructure Engineer | Networking | System Engineering | DevOps | Cloud Architecture | Kalaung Tech Member"
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 - DevSecOps methodologies (CI/CD, Ansible)
 - Cloud platforms (AWS, Digital Ocean)
